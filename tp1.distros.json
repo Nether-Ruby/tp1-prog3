@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "662d19b3e5e452c7bef64928"
+  },
+  "name": "debian",
+  "dev": "The Debian Project",
+  "latestRelease": "12.5",
+  "createdAt": {
+    "$date": "2024-04-27T15:28:51.368Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T17:19:41.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d308ab7d4cb12f8f072d0"
+  },
+  "name": "mint",
+  "dev": "Clément Lefèbvre and community",
+  "latestRelease": "21.3",
+  "createdAt": {
+    "$date": "2024-04-27T17:06:18.816Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T17:06:18.816Z"
+  },
+  "__v": 0
+}]
